@@ -1,0 +1,16 @@
+C:\Users\Artjom\Documents\RKE132\Nadal15\OOPAndFiles\OOPAndFiles\bin\Debug\net5.0\OOPAndFiles.exe
+C:\Users\Artjom\Documents\RKE132\Nadal15\OOPAndFiles\OOPAndFiles\bin\Debug\net5.0\OOPAndFiles.deps.json
+C:\Users\Artjom\Documents\RKE132\Nadal15\OOPAndFiles\OOPAndFiles\bin\Debug\net5.0\OOPAndFiles.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\Nadal15\OOPAndFiles\OOPAndFiles\bin\Debug\net5.0\OOPAndFiles.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\Nadal15\OOPAndFiles\OOPAndFiles\bin\Debug\net5.0\OOPAndFiles.dll
+C:\Users\Artjom\Documents\RKE132\Nadal15\OOPAndFiles\OOPAndFiles\bin\Debug\net5.0\ref\OOPAndFiles.dll
+C:\Users\Artjom\Documents\RKE132\Nadal15\OOPAndFiles\OOPAndFiles\bin\Debug\net5.0\OOPAndFiles.pdb
+C:\Users\Artjom\Documents\RKE132\Nadal15\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\OOPAndFiles.csproj.AssemblyReference.cache
+C:\Users\Artjom\Documents\RKE132\Nadal15\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\OOPAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\Nadal15\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\OOPAndFiles.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\Nadal15\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\OOPAndFiles.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\Nadal15\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\OOPAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\Nadal15\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\OOPAndFiles.dll
+C:\Users\Artjom\Documents\RKE132\Nadal15\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\ref\OOPAndFiles.dll
+C:\Users\Artjom\Documents\RKE132\Nadal15\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\OOPAndFiles.pdb
+C:\Users\Artjom\Documents\RKE132\Nadal15\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\OOPAndFiles.genruntimeconfig.cache

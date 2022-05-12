@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Artjom\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Artjom\\.nuget\\packages"
+    ]
+  }
+}
